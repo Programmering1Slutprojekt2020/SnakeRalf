@@ -13,6 +13,7 @@ namespace Snake {
 		public Form1() {
 			InitializeComponent();
 			panel1.Location = new Point(20, 100);
+
 			
 			
 		}
